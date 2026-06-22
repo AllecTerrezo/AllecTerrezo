@@ -12,7 +12,7 @@ We don't just write code; we deliver highly optimized processing and measurable 
 
 ### 🔗 Connect with Us
 - 🌐 **Website & Architecture Audits:** [rotazesoftware.com](https://rotazesoftware.com)
-- ✉️ **Contact:** engineering@rotazesoftware.com
+- ✉️ **Contact:** contact@rotazesoftware.com
 
 ---
 *Building the future of autonomous operations.*
